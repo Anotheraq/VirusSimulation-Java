@@ -1,4 +1,4 @@
 # VirusSimulation-Java
 Red - infected  
-Green - have resist  
+Green - not infected have resist  
 Blue - not infected w/out resist  
